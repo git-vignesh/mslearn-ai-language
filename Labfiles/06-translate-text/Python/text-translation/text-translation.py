@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 import requests, json
 
+
 def main():
     global translator_endpoint
     global cog_key
